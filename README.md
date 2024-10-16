@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajvardhan Pawar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **development of a fitness website**
+- 🔭 I’m currently learning on **WXT Framworks**
 
 - 🌱 I’m currently learning **React native**
 
