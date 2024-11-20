@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently learning **MERN Stack**
 
-- 🌱 I’m currently learning **React native**
-
 - 💬 Ask me about **Web development, SEO, Hosting**
 
 - 📫 How to reach me **rajvardhanspawar@gmail.com**
